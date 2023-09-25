@@ -1,0 +1,1 @@
+web: gunicorn aula_flask:app
